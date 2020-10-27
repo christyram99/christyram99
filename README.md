@@ -20,7 +20,3 @@ Here are some ideas to get you started:
  [Mail](mailto:christyram99@gmail.com) •
  [Twitter](https://twitter.com/christyram99) •
  [Instagram](https://instagram.com/christyram99) 
-
-[Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=christyram99&count_private=true&show_icons=true&bg_color=#111&theme=cobalt)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christyram99)](https://github.com/anuraghazra/github-readme-stats)
