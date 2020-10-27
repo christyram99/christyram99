@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I am Ramaiah, a Software Engineer 👋
+### Hi there, I am Ramaiah, a Software Developer 👋
  [Website](https://ramaiahtech.com) •
  [Mail](mailto:christyram99@gmail.com) •
  [Twitter](https://twitter.com/christyram99) •
