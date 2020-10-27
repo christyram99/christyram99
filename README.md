@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 [![Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=christyram99&count_private=true&show_icons=true&bg_color=#000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christyram99&exclude_repo=store,MMS,Sara)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christyram99&exclude_repo=store,MMS,Sara,Easy_Parking,Find_Examination_Centre)](https://github.com/anuraghazra/github-readme-stats)
