@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there, I am Ramaiah, a Software Developer 👋
- [Website](https://ramaiahtech.com) •
  [Mail](mailto:christyram99@gmail.com) •
+ [LinkedIn](linkedin.com/in/christyram99/) •
  [Twitter](https://twitter.com/christyram99) •
  [Instagram](https://instagram.com/christyram99) 
 
