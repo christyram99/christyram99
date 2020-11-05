@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I am Ramaiah, a Software Developer 👋
  [Mail](mailto:christyram99@gmail.com) •
  [LinkedIn](linkedin.com/in/christyram99/) •
- [Twitter](https://twitter.com/christyram99) •
+ [Twitter](https://twitter.com/ramaiahkethana) •
  [Instagram](https://instagram.com/christyram99) 
 
 [![Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=christyram99&count_private=true&show_icons=true&bg_color=#000)](https://github.com/anuraghazra/github-readme-stats)
