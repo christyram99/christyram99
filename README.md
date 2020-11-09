@@ -22,16 +22,18 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://linkedin.com/in/ramaiahkethana">
-  <img width="21px" alt="Ramaiah LinkedIn" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/linkedin.svg" />
+  <img width="18px" style="margin-left:7px;" alt="Ramaiah LinkedIn" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/linkedin.svg" />
 </a>
 
 <a href="https://instagram.com/ramaiahkethana">
-  <img width="21px" alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" />
+  <img width="18px" style="margin-left:7px;" alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" />
 </a>
 
 <a href="mailto:christyram99@gmail.com">
-  <img width="21px" alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" />
+  <img width="18px" style="margin-left:7px;" alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" />
 </a>
+
+<div style="padding: 2.5px 0"> </div>
  
 ![](https://komarev.com/ghpvc/?username=ramaiahkethana&color=brightgreen)
 
