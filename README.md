@@ -18,19 +18,19 @@ Here are some ideas to get you started:
 ### Hi there, I am Ramaiah, a Software Developer 👋
 
 <a href="https://twitter.com/ramaiahkethana">
-  <img alt="Ramaiah twitter" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/twitter.svg" />
+  <img width="21px" alt="Ramaiah twitter" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/twitter.svg" />
 </a>
 
 <a href="https://linkedin.com/in/ramaiahkethana">
-  <img alt="Ramaiah LinkedIn" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/linkedin.svg" />
+  <img width="21px" alt="Ramaiah LinkedIn" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/linkedin.svg" />
 </a>
 
 <a href="https://instagram.com/ramaiahkethana">
-  <img alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" />
+  <img width="21px" alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" />
 </a>
 
 <a href="mailto:christyram99@gmail.com">
-  <img alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" />
+  <img width="21px" alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" />
 </a>
  
 ![](https://komarev.com/ghpvc/?username=ramaiahkethana&color=brightgreen)
