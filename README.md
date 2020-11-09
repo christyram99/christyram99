@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hi there, I am Ramaiah, a Software Developer 👋
 
 <a href="https://twitter.com/ramaiahkethana">
-  <img width="21px" alt="Ramaiah twitter" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/twitter.svg" /> 
+  <img width="18px" alt="Ramaiah twitter" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/twitter.svg" /> 
 </a>
 &nbsp;
 
