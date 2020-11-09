@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/ramaiahkethana">
   <img width="18px" style="margin-left:7px;" alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" /> 
 </a> 
+&nbsp;
 
 <a href="mailto:christyram99@gmail.com">
   <img width="18px" style="margin-left:7px;" alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" /> 
