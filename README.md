@@ -20,6 +20,8 @@ Here are some ideas to get you started:
  [LinkedIn](linkedin.com/in/christyram99/) •
  [Twitter](https://twitter.com/ramaiahkethana) •
  [Instagram](https://instagram.com/christyram99) 
+ 
+![](https://komarev.com/ghpvc/?username=ramaiahkethana&color=blueviolet)
 
 [![Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=ramaiahkethana&count_private=true&show_icons=true&bg_color=#000)](https://github.com/anuraghazra/github-readme-stats)
 
