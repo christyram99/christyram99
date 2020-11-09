@@ -19,11 +19,15 @@ Here are some ideas to get you started:
 
 <a href="https://twitter.com/ramaiahkethana">
   <img width="21px" alt="Ramaiah twitter" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/twitter.svg" /> 
-</a>  
+</a> 
+
+&nbsp;
 
 <a href="https://linkedin.com/in/ramaiahkethana">
   <img width="18px" style="margin-left:7px;" alt="Ramaiah LinkedIn" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/linkedin.svg" /> 
 </a> 
+
+&nbsp;
 
 <a href="https://instagram.com/ramaiahkethana">
   <img width="18px" style="margin-left:7px;" alt="Ramaiah Instagram" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/instagram.svg" /> 
