@@ -33,7 +33,8 @@ Here are some ideas to get you started:
   <img width="18px" style="margin-left:7px;" alt="Ramaiah Mail" src="https://raw.githubusercontent.com/ramaiahkethana/ramaiahkethana/main/assets/gmail.svg" />
 </a>
 
-<div style="padding: 2.5px 0"> </div>
+<br/>
+<br/>
  
 ![](https://komarev.com/ghpvc/?username=ramaiahkethana&color=brightgreen)
 
