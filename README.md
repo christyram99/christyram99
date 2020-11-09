@@ -21,6 +21,6 @@ Here are some ideas to get you started:
  [Twitter](https://twitter.com/ramaiahkethana) •
  [Instagram](https://instagram.com/christyram99) 
 
-[![Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=christyram99&count_private=true&show_icons=true&bg_color=#000)](https://github.com/anuraghazra/github-readme-stats)
+[![Ramaiah's github stats](https://github-readme-stats.vercel.app/api?username=ramaiahkethana&count_private=true&show_icons=true&bg_color=#000)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=christyram99&exclude_repo=store,MMS,Sara,faculty_blog,Find_Examination_Centre,Easy_Parking)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramaiahkethana&exclude_repo=store,MMS,Sara,faculty_blog,Find_Examination_Centre,Easy_Parking)](https://github.com/anuraghazra/github-readme-stats)
